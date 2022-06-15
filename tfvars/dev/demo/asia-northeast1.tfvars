@@ -1,0 +1,5 @@
+env        = "dev"
+project_id = "anthosday"
+region     = "asia-northeast1"
+app        = "demo"
+dataset_id = "demo2"
